@@ -1,0 +1,16 @@
+.env
+connector1.py
+
+__pycache__/
+*.pyc
+
+
+.ipynb_checkpoints/
+
+
+backup_repo/
+kaggle_dataset.git/
+
+
+Thumbs.db
+.DS_Store
